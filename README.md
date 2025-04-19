@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**gubeworks/gubeworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**gubeworks/gubeworks** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a free Shopify theme for new webshop entrepreneurs 
+- 🌱 I’m currently learning to code and not least structure code
+- 👯 I’m looking to collaborate on future projects
+- 🤔 I’m looking for help with anything relevant to Shopify and website development
+- 💬 Ask me about how many hours I have spent trying to learn 
+- 📫 How to reach me: hey@gube.works
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have never had to state my pronouns before... Hope I did it correctly 
+
